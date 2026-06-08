@@ -38,6 +38,8 @@ prebuilt Parquet files are already checked in under `backend-api/data/`.
 
 ## Installation
 
+📹 **Video instructions** - [Link](https://youtu.be/GL9_sd3GXow)
+
 ### Prerequisites
 
 - **Python 3.10+** (the pipeline uses `transformers` / `torch`; a GPU is recommended for
